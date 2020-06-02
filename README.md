@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Me of the future!
+Hi me of the future!
 
 I will become in a machine learning engineer
