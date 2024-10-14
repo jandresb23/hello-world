@@ -1,1 +1,3 @@
-Se modifica el readme para la nueva version
+Se modifica el readme para la nueva version.
+
+Ajustes nuevos en codigo.
